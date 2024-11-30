@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @josephelgar
+- 👀 I’m interested in frontend
+- 🌱 I’m currently learning haskell
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I know latin
